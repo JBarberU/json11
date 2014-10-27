@@ -10,5 +10,5 @@ set(HEADERS
 	json11.hpp
 )
 
-add_library(dropbox_json "${SRC}")
+add_library(json11 "${SRC}")
 
